@@ -19,16 +19,17 @@ The goal of this project was to build a visually engaging frontend that captures
 *   **Editor:** Developed using VS Code.
 
 ## 📂 Project Structure# Jeddah-Tourism-Frontend
+```text
 FRONTEND/
 ├── HTML/
-│   ├── attractions.html    # Landmarks and sights
-│   ├── biennale.html       # Islamic Arts Biennale information
-│   ├── formula1.html       # F1 Jeddah Grand Prix coverage
-│   ├── history.html        # Historical heritage and Al-Balad
-│   ├── index.html          # Main landing page
-│   ├── stays.html          # Hotels and accommodation guide
+│   ├── attractions.html     # Landmarks and sights
+│   ├── biennale.html        # Islamic Arts Biennale information
+│   ├── formula1.html        # F1 Jeddah Grand Prix coverage
+│   ├── history.html         # Historical heritage and Al-Balad
+│   ├── index.html           # Main landing page
+│   ├── stays.html           # Hotels and accommodation guide
 │   └── seasonalEvents.html  # Jeddah Season and local festivities
 ├── CSS/
-│   └── style.css           # Core styling and layout rules
-├── pictures/               # Project-wide image assets (Al-Balad, F1, etc.)
+│   └── style.css            # Core styling and layout rules
+├── pictures/                # Project-wide image assets (Al-Balad, F1, etc.)
 └── README.md
